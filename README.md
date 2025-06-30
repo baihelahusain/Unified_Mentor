@@ -71,19 +71,6 @@ This internship provided hands-on experience in handling real-world datasets and
 
 ---
 
-## 📂 Repository Structure
-/EV_Vehicle_Project/
-/Health_Care_Recommendation/
-/Movie_Recommendation/
-/Netflix_Project/
-/Olympics_Project/
-/Stocks_Project/
-/Uber_Trip_Project/
-/Supply_Chain_Management/
-/Customer_Satisfaction_Prediction/
-/Ecommerce_Furniture_Sales/
-/Playstore_Rating_Prediction/
-
 **Baihela Hussain**  
 Data Science Intern @ Unified Mentor  
 [LinkedIn](https://www.linkedin.com/in/baihela-hussain/) | [Portfolio](https://baihelahusain-app.vercel.app/) | [Email](mailto:baihelahusain@gmail.com)
